@@ -1,1 +1,1 @@
-# llinalg_practice
+# linalg_practice
